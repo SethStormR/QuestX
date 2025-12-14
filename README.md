@@ -3,7 +3,7 @@ QuestX is a simple minimalistic icon theme for KDE/Gnome/XFCE/Budgie DE &amp; Co
 
 Requirements
 --
-QuickX requires Papirus icon theme. You can get it here: https://store.kde.org/p/1166289
+QuestX requires Papirus icon theme. You can get it here: https://store.kde.org/p/1166289
 
 Tested on
 --
